@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.PraveenReddy69:FloatingLib:3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00f7db03d2659cc2b309f3e4eae48a3b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00f7db03d2659cc2b309f3e4eae48a3b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.PraveenReddy69/FloatingLib/3.0.0/b4936c6aef1f0355354acd2b0a3079736745ff43/FloatingLib-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
